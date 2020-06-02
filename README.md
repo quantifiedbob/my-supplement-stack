@@ -2,15 +2,29 @@
 
 As of June 2, 2020. See [CHANGELOG](CHANGELOG.md) for updates.
 
+## Table of Contents
+
+- [Wellness Stack](#wellness-stack)
+- [Strength/Training Stack](#strength/training-stack)
+- [Longevity Stack](#longevity-stack)
+- [Cognitive Stack](#cognitive-stack)
+- [Sleep Stack](#sleep-stack)
+- [Detox/Recovery Stack](#detox/recovery-stack)
+- [Stress Stack](#stress-stack)
+
+---
+
 #### Affiliate Disclosure
 
 You can view my full disclosure statement at [https://www.quantifiedbob.com/disclosure/](https://www.quantifiedbob.com/disclosure/ 'Affiliate Disclosure').
 
 This respository may contain affiliate links. I may receive a small commission at cost to you when you make a purchase using my link or discount code. Any content posted reflects my own opinions and are in no way influenced by any affiliate relationships. Any affiliate link or discount codes are for products that I have personally used, support and would recommend. I appreciate your support!
 
+---
+
 ## Wellness Stack
 
-### Taken Daily:
+#### Taken Daily:
 
 **Vitamin B**: Thorne Basic B Complex, 1 capsule/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/thorne-basic-b-complex-az/)]
 
@@ -26,7 +40,9 @@ This respository may contain affiliate links. I may receive a small commission a
 
 **Omega-3 Fish Oil**: Viva Naturals Ultra Strength Omega-3 Fish Oil, 2 softgels/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/viva-naturals-omega-3-fish-oil-az/)]
 
-### Taken as Needed:
+<br />
+
+#### Taken as Needed:
 
 **Vitamin A**
 
@@ -38,9 +54,11 @@ This respository may contain affiliate links. I may receive a small commission a
 
 **Systemic Enzymes**: ProOneZyme Systemic Enzymes, 3-6 capsules/daily -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/proonezyme-systemic-enzymes-az/)]
 
+---
+
 ## Strength/Training Stack
 
-### Taken Daily:
+#### Taken Daily:
 
 **Collagen Peptides**: Orgain Collagen Peptides, 20g/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/orgain-collagen-peptides-az/)]
 
@@ -50,15 +68,19 @@ This respository may contain affiliate links. I may receive a small commission a
 
 **Proteolytic Enzymes**: Doctor's Best Proteolytic Enzymes, 3-6 capsules/day, taken with large protein meals -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/doctors-best-proteolytic-enzymes-az/)]
 
-### Taken as Needed:
+<br />
+
+#### Taken as Needed:
 
 **Ketone Esters**: KetoneAid KE1 / KE4, 5-10 mL pre-workout -- Buy: [[KetoneAid](http://quantifiedbob.com/go/ketoneaid)] (use code **QUANTIFIEDBOB** for free shipping!)
 
 **Vasodilators**: Beet Root Powder**, **L-Arginine**, **Niacin (Vitamin B3) (taken prior to exercise, sauna)
 
+---
+
 ## Longevity Stack
 
-### Taken Daily:
+#### Taken Daily:
 
 **NMN (Nicotinamide Mononucleotide)**: ProHealth Longevity NMN Pro Powder, 250 mg 2x/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/prohealth-nmn-powder-az/)]
 
@@ -66,15 +88,19 @@ This respository may contain affiliate links. I may receive a small commission a
 
 **PABA (Para-AminoBenzoic Acid)**: NOW Foods PABA, 500 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-foods-paba-az/)]
 
+---
+
 ## Cognitive Stack
 
-### Taken Daily:
+#### Taken Daily:
 
 **Caffeine**: Bulletproof Coffee, 1-2 cups in the morning -- Buy: [[Bulletproof](https://www.quantifiedbob.com/go/bulletproof/)]
 
 **L-Theanine**: SymNutrition L-Theanine, 200 mg/day (taken w/ coffee) -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/symnutrition-l-theanine-az/)]
 
-### Taken as Needed:
+<br />
+
+#### Taken as Needed:
 
 **Nootropics**:
 
@@ -84,13 +110,17 @@ Lucy Nicotine Gum, 1-2mg (no more than 1-2x/week) -- Buy: [[Lucy](https://www.qu
 
 Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.quantifiedbob.com/go/findmyformula/)] (use code **QUANTIFIEDBOB** to save 20%!)
 
+---
+
 ## Sleep Stack
 
-### Taken Daily:
+#### Taken Daily:
 
 **Nothing**
 
-### Taken as Needed:
+<br />
+
+#### Taken as Needed:
 
 **Glycine**: Thorne Glycine, 2-3 g prior to bed -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/thorne-glycine-az/)]
 
@@ -100,17 +130,23 @@ Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.q
 
 **Magnesium Citrate**: NOW Foods Magnesium Citrate, 2000 mg -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-foods-magnesium-citrate-az/)]
 
+---
+
 ## Detox/Recovery Stack
 
-### Taken Daily:
+#### Taken Daily:
 
 **N-Acetyl Cysteine (NAC)**: NOW Foods NAC, 1000-2000 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-nac-az/)]
 
-### Taken Quarterly:
+<br />
+
+#### Taken Quarterly:
 
 **Peptides**: BPC-157, TB-500
 
-### Taken as Needed:
+<br />
+
+#### Taken as Needed:
 
 **Molecular Hydrogen**: Vital Reaction, 2-3 tablets -- Buy: [[Vital Reaction](http://quantifiedbob.com/go/vital-reaction)] (use code **QUANTIFIEDBOB** to save 10%!)
 
@@ -120,9 +156,11 @@ Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.q
 
 **Calcium D-Glucarate**: NOW Foods Calcium D-Glucarate, 3 capsules/day - Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-foods-calcium-d-glucarate-az/)]
 
+---
+
 ## Stress Stack
 
-### Taken as Needed:
+#### Taken as Needed:
 
 **Chaga** Sayan Siberian Chaga Chunks (to make home-brewed chaga tea) -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/sayan-chaga-chunks-az/)]
 
