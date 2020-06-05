@@ -5,20 +5,18 @@ As of June 2, 2020. See [CHANGELOG](CHANGELOG.md) for updates.
 ## Table of Contents
 
 - [Wellness Stack](#wellness-stack)
-- [Strength/Training Stack](#strength/training-stack)
+- [Strength and Training Stack](#strength-and-training-stack)
 - [Longevity Stack](#longevity-stack)
 - [Cognitive Stack](#cognitive-stack)
 - [Sleep Stack](#sleep-stack)
-- [Detox/Recovery Stack](#detox/recovery-stack)
+- [Detox and Recovery Stack](#detox-and-recovery-stack)
 - [Stress Stack](#stress-stack)
 
 ---
 
 #### Affiliate Disclosure
 
-You can view my full disclosure statement at [https://www.quantifiedbob.com/disclosure/](https://www.quantifiedbob.com/disclosure/ 'Affiliate Disclosure').
-
-This respository may contain affiliate links. I may receive a small commission at cost to you when you make a purchase using my link or discount code. Any content posted reflects my own opinions and are in no way influenced by any affiliate relationships. Any affiliate link or discount codes are for products that I have personally used, support and would recommend. I appreciate your support!
+_This document contains affiliate links and I may receive a small commission (at no cost to you) if you make a purchase using my link or discount code. Any content posted reflects my own opinions and are in no way influenced by any affiliate relationships. Any affiliate link or discount codes are for products that I have personally used, support and would recommend. I appreciate your support! View my full disclosure statement at [https://www.quantifiedbob.com/disclosure/](https://www.quantifiedbob.com/disclosure/ 'Affiliate Disclosure')._
 
 ---
 
@@ -54,9 +52,15 @@ This respository may contain affiliate links. I may receive a small commission a
 
 **Systemic Enzymes**: ProOneZyme Systemic Enzymes, 3-6 capsules/daily -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/proonezyme-systemic-enzymes-az/)]
 
+<br />
+
+[back to top](#my-current-supplement-stack)
+
+<br />
+
 ---
 
-## Strength/Training Stack
+## Strength and Training Stack
 
 #### Taken Daily:
 
@@ -74,7 +78,13 @@ This respository may contain affiliate links. I may receive a small commission a
 
 **Ketone Esters**: KetoneAid KE1 / KE4, 5-10 mL pre-workout -- Buy: [[KetoneAid](http://quantifiedbob.com/go/ketoneaid)] (use code **QUANTIFIEDBOB** for free shipping!)
 
-**Vasodilators**: Beet Root Powder**, **L-Arginine**, **Niacin (Vitamin B3) (taken prior to exercise, sauna)
+**Vasodilators**: Beet Root Powder, L-Arginine, Niacin (Vitamin B3) (taken prior to exercise, sauna)
+
+<br />
+
+[back to top](#my-current-supplement-stack)
+
+<br />
 
 ---
 
@@ -87,6 +97,12 @@ This respository may contain affiliate links. I may receive a small commission a
 **Resveratrol**: Empirical Labs Liposomal Curcumin/Resveratrol, 6 mL/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/empirical-labs-curcumin-resveratrol-az/)]
 
 **PABA (Para-AminoBenzoic Acid)**: NOW Foods PABA, 500 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-foods-paba-az/)]
+
+<br />
+
+[back to top](#my-current-supplement-stack)
+
+<br />
 
 ---
 
@@ -110,6 +126,12 @@ Lucy Nicotine Gum, 1-2mg (no more than 1-2x/week) -- Buy: [[Lucy](https://www.qu
 
 Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.quantifiedbob.com/go/findmyformula/)] (use code **QUANTIFIEDBOB** to save 20%!)
 
+<br />
+
+[back to top](#my-current-supplement-stack)
+
+<br />
+
 ---
 
 ## Sleep Stack
@@ -130,9 +152,15 @@ Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.q
 
 **Magnesium Citrate**: NOW Foods Magnesium Citrate, 2000 mg -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-foods-magnesium-citrate-az/)]
 
+<br />
+
+[back to top](#my-current-supplement-stack)
+
+<br />
+
 ---
 
-## Detox/Recovery Stack
+## Detox and Recovery Stack
 
 #### Taken Daily:
 
@@ -156,12 +184,24 @@ Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.q
 
 **Calcium D-Glucarate**: NOW Foods Calcium D-Glucarate, 3 capsules/day - Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-foods-calcium-d-glucarate-az/)]
 
+<br />
+
+[back to top](#my-current-supplement-stack)
+
+<br />
+
 ---
 
 ## Stress Stack
 
 #### Taken as Needed:
 
-**Chaga** Sayan Siberian Chaga Chunks (to make home-brewed chaga tea) -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/sayan-chaga-chunks-az/)]
+**Chaga**: Sayan Siberian Chaga Chunks (to make home-brewed chaga tea) -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/sayan-chaga-chunks-az/)]
 
 **CBD**: Bluebird Botanicals Hemp Complete, 15-20 drops - Buy: [[BlueBird Botanicals](https://www.quantifiedbob.com/go/bluebird-botanicals/)]
+
+<br />
+
+[back to top](#my-current-supplement-stack)
+
+<br />
