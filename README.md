@@ -1,6 +1,6 @@
 # My Current Supplement Stack
 
-As of June 2, 2020. See [CHANGELOG](CHANGELOG.md) for updates.
+As of July 18, 2020. See [CHANGELOG](CHANGELOG.md) for updates.
 
 ## Table of Contents
 
@@ -90,6 +90,12 @@ _This document contains affiliate links and I may receive a small commission (at
 
 ## Longevity Stack
 
+#### Taken Quarterly:
+
+**Peptides**: BPC-157, TB-500, CJC-1295 + Ipamorelin, Thymosin Alpha-1
+
+<br />
+
 #### Taken Daily:
 
 **NMN (Nicotinamide Mononucleotide)**: ProHealth Longevity NMN Pro Powder, 250 mg 2x/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/prohealth-nmn-powder-az/)]
@@ -166,11 +172,6 @@ Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.q
 
 **N-Acetyl Cysteine (NAC)**: NOW Foods NAC, 1000-2000 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-nac-az/)]
 
-<br />
-
-#### Taken Quarterly:
-
-**Peptides**: BPC-157, TB-500
 
 <br />
 

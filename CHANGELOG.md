@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2020-07-18
+
+### Started
+- Peptides: BPC-157, CJC-1295 + Ipamorelin
+
 ## [1.0.0] - 2020-06-02
 
 ### Added
