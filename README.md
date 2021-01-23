@@ -1,6 +1,6 @@
 # My Current Supplement Stack
 
-As of July 18, 2020. See [CHANGELOG](CHANGELOG.md) for updates.
+As of January, 2021. See [CHANGELOG](CHANGELOG.md) for updates.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ As of July 18, 2020. See [CHANGELOG](CHANGELOG.md) for updates.
 
 #### Affiliate Disclosure
 
-_This document contains affiliate links and I may receive a small commission (at no cost to you) if you make a purchase using my link or discount code. Any content posted reflects my own opinions and are in no way influenced by any affiliate relationships. Any affiliate link or discount codes are for products that I have personally used, support and would recommend. I appreciate your support! View my full disclosure statement at [https://www.quantifiedbob.com/disclosure/](https://www.quantifiedbob.com/disclosure/ 'Affiliate Disclosure')._
+_This document contains affiliate links and I may receive a commission if you make a purchase using my link or discount code (at no cost to you). I appreciate your support! Any content posted reflects my own opinions and are in no way influenced by any affiliate relationships. Any affiliate link or discount codes are for products that I have personally used, support and would recommend. View my full disclosure statement at [https://www.quantifiedbob.com/disclosure/](https://www.quantifiedbob.com/disclosure/ 'Affiliate Disclosure')._
 
 ---
 
@@ -28,21 +28,20 @@ _This document contains affiliate links and I may receive a small commission (at
 
 **Vitamin C**: LiveOn Laboratories Lypo-Spheric Vitamin C, 1 packet/1,000 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/lypo-spheric-vitamin-c-az/)] + Viva Naturals Vitamin C, 1,000 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/viva-naturals-vitamin-c-az/)]
 
-**Vitamin D**: NutriGold Vitamin D3 Gold, 4,000-6,000 IU/day winter, 0-2,000 IU summer -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/nutrigold-vitamin-d-gold-az/)]
+**Vitamin D/K2**: Thorne Vitamin D/K2 Liquid, 8,000 IU/day winter (split 2x/day w/Magnesium), 0-2,000 IU summer -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/thorne-vitamin-d-k2-liquid-az/)]
 
-**Vitamin K**: Innovix Labs Full Spectrum Vitamin K2, 2 capsules/day (1,000 mcg Vitamin K2 MK-4, 1,000 mcg Vitamin K2-MK7) -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/innovix-labs-vitamin-k2-az/)]
+**Vitamin A** Pure Encapsulations Vitamin A, 10,000 IU/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/pure-encapsulations-vitamin-a-az/)]
 
-**Trace Minerals**: Thorne Pic-Mins, 1 capsule/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/thorne-pic-mins-az/)]
+**Trace Minerals**: Thorne Research Pic-Mins, 1 capsule/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/thorne-pic-mins-az/)]
 
 **Probiotic**: Physician's Choice 60 Billion Probiotic, 1 capsule/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/physicians-choice-60-billion-probiotic-az/)]
 
-**Omega-3 Fish Oil**: Viva Naturals Ultra Strength Omega-3 Fish Oil, 2 softgels/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/viva-naturals-omega-3-fish-oil-az/)]
 
 <br />
 
 #### Taken as Needed:
 
-**Vitamin A**
+**Omega-3 Fish Oil**: Viva Naturals Ultra Strength Omega-3 Fish Oil, 2 softgels/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/viva-naturals-omega-3-fish-oil-az/)]
 
 **Vitamin C**: 2000+ mg/day for additional immune support
 
@@ -50,7 +49,6 @@ _This document contains affiliate links and I may receive a small commission (at
 
 **Bitter Melon**: Himalaya Bitter Melon, 1-2 caplets taken with high-glycemic meals -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/himalaya-organic-bitter-melon-az/)]
 
-**Systemic Enzymes**: ProOneZyme Systemic Enzymes, 3-6 capsules/daily -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/proonezyme-systemic-enzymes-az/)]
 
 <br />
 
@@ -64,13 +62,11 @@ _This document contains affiliate links and I may receive a small commission (at
 
 #### Taken Daily:
 
-**Collagen Peptides**: Orgain Collagen Peptides, 20g/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/orgain-collagen-peptides-az/)]
+**Collagen Peptides**: Custom Collagen Clean Collagen Beef Collagen Peptides, 22g/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/custom-collagen-peptides-az/)]
 
-**Essential Amino Acids (EAAs)**: TrueNutrition Essential Amino Acids (Instantized Poweder), 10g/day post-workout on training days -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/truenutrition-eaas-az/)]
+**Essential Amino Acids (EAAs)**: Bulk Supplements Essential Amino Acids, 15g/day (split post-workout/evening) on training days -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/bulk-supplements-eaas-az/)]
 
-**Creatine Monohydrate**: AllMax Nutrition Pure Micronized Creatine, 5g/day post workout on training days/after first meal non-training days, 8 weeks on/2 weeks off -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/allmax-creatine-monohydrate-micronized-az/)]
-
-**Proteolytic Enzymes**: Doctor's Best Proteolytic Enzymes, 3-6 capsules/day, taken with large protein meals -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/doctors-best-proteolytic-enzymes-az/)]
+**Creatine Monohydrate**: Bulk Supplements Creatine Monohydrate (Micronized), 5g/day post workout on training days/after first meal non-training days, 8 weeks on/2 weeks off -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/bulk-supplements-creatine-monohydrate-az/)]
 
 <br />
 
@@ -90,19 +86,25 @@ _This document contains affiliate links and I may receive a small commission (at
 
 ## Longevity Stack
 
+#### Taken Daily:
+
+**Systemic Enzymes**: ProOneZyme Systemic Enzymes, 4-8 capsules/daily (empty stomach) -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/proonezyme-systemic-enzymes-az/)]
+
+**Proteolytic/Digestive Enzymes**: Doctor's Best Proteolytic Enzymes, 3-6 capsules/day, taken with large protein meals -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/doctors-best-proteolytic-enzymes-az/)]
+
+PABA (Para-AminoBenzoic Acid)**: NOW Foods PABA, 500 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-foods-paba-az/)]
+
+<br />
+
 #### Taken Quarterly:
 
 **Peptides**: BPC-157, TB-500, CJC-1295 + Ipamorelin, Thymosin Alpha-1
 
 <br />
 
-#### Taken Daily:
-
-**NMN (Nicotinamide Mononucleotide)**: ProHealth Longevity NMN Pro Powder, 250 mg 2x/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/prohealth-nmn-powder-az/)]
+#### Taken as Needed:
 
 **Resveratrol**: Empirical Labs Liposomal Curcumin/Resveratrol, 6 mL/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/empirical-labs-curcumin-resveratrol-az/)]
-
-**PABA (Para-AminoBenzoic Acid)**: NOW Foods PABA, 500 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-foods-paba-az/)]
 
 <br />
 
@@ -130,8 +132,6 @@ Troscriptions Blue Cannatine, 1 troche -- Buy: [[Troscriptions](https://www.quan
 
 Lucy Nicotine Gum, 1-2mg (no more than 1-2x/week) -- Buy: [[Lucy](https://www.quantifiedbob.com/go/troscriptions/)] (use code **QUANTIFIEDBOB** to save 10%!)
 
-Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.quantifiedbob.com/go/findmyformula/)] (use code **QUANTIFIEDBOB** to save 20%!)
-
 <br />
 
 [back to top](#my-current-supplement-stack)
@@ -144,7 +144,7 @@ Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.q
 
 #### Taken Daily:
 
-**Nothing**
+**Magnesium Complex**: Benevolent Nourishment Magnesium Complex, 1000 mg (500mg 2x/day w/ Vit D/K2) -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/benevolent-magnesium-az/)]
 
 <br />
 
@@ -156,7 +156,6 @@ Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.q
 
 **Ketone Esters**: KetoneAid KE1 / KE4, 5-10 mL prior to bed -- Buy: [[KetoneAid](http://quantifiedbob.com/go/ketoneaid)] (use code **QUANTIFIEDBOB** for free shipping!)
 
-**Magnesium Citrate**: NOW Foods Magnesium Citrate, 2000 mg -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-foods-magnesium-citrate-az/)]
 
 <br />
 
@@ -170,12 +169,13 @@ Formula, Clarity/Logic/Creativity stacks -- Buy: [[FindMyForumula](https://www.q
 
 #### Taken Daily:
 
-**N-Acetyl Cysteine (NAC)**: NOW Foods NAC, 1000-2000 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-nac-az/)]
-
+**Nothing**
 
 <br />
 
 #### Taken as Needed:
+
+**N-Acetyl Cysteine (NAC)**: NOW Foods NAC, 1000-2000 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/now-nac-az/)]
 
 **Molecular Hydrogen**: Vital Reaction, 2-3 tablets -- Buy: [[Vital Reaction](http://quantifiedbob.com/go/vital-reaction)] (use code **QUANTIFIEDBOB** to save 10%!)
 
