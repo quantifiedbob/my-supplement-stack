@@ -5,6 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project (loosely) adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html) with major versions reflecting year and minor versions reflecting months.
 
+## [2.2.0] - 2021-06
+
+### Added/Resumed
+
+- Host Defense MyCommunity mushroom extract
+- Host Defense Turkey Tail powder
+  
+### Replaced/Modified
+
+- Reduced Vitamin D/K2 supplementation for summer months
+  
+### Stopped
+
+- Creatine Monohydrate - 30-day wash period
+- Peptides - 30-day wash period
+
 
 ## [2.1.0] - 2021-01
 

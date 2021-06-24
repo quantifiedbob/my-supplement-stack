@@ -1,10 +1,10 @@
 # My Current Supplement Stack
 
-As of January, 2021. See [CHANGELOG](CHANGELOG.md) for updates.
+As of June, 2021. See [CHANGELOG](CHANGELOG.md) for updates.
 
 ## Table of Contents
 
-- [Wellness Stack](#wellness-stack)
+- [Wellness and Immunity Stack](#wellness-stack)
 - [Strength and Training Stack](#strength-and-training-stack)
 - [Longevity Stack](#longevity-stack)
 - [Cognitive Stack](#cognitive-stack)
@@ -20,32 +20,35 @@ _This document contains affiliate links and I may receive a commission if you ma
 
 ---
 
-## Wellness Stack
+## Wellness and Immunity Stack
 
 #### Taken Daily:
 
 **Vitamin B**: Thorne Basic B Complex, 1 capsule/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/thorne-basic-b-complex-az/)]
 
-**Vitamin C**: LiveOn Laboratories Lypo-Spheric Vitamin C, 1 packet/1,000 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/lypo-spheric-vitamin-c-az/)] + Viva Naturals Vitamin C, 1,000 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/viva-naturals-vitamin-c-az/)]
-
-**Vitamin D/K2**: Thorne Vitamin D/K2 Liquid, 8,000 IU/day winter (split 2x/day w/Magnesium), 0-2,000 IU summer -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/thorne-vitamin-d-k2-liquid-az/)]
+**Vitamin D/K2**: Thorne Vitamin D/K2 Liquid (split 2x/day w/ magnesium), 0-2,000 IU summer, 8,000 IU/day winter -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/thorne-vitamin-d-k2-liquid-az/)]
 
 **Vitamin A** Pure Encapsulations Vitamin A, 10,000 IU/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/pure-encapsulations-vitamin-a-az/)]
 
 **Trace Minerals**: Thorne Research Pic-Mins, 1 capsule/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/thorne-pic-mins-az/)]
 
-**Probiotic**: Physician's Choice 60 Billion Probiotic, 1 capsule/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/physicians-choice-60-billion-probiotic-az/)]
+**Mushrooms**: Host Defense MyCommunity extract, 2 droppers 2x/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/host-defense-mycommunity-extract/)]
+
+**Mushrooms**: Host Defense Turkey Tail Powder 1/2 tbsp 2x/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/host-defense-turkey-tail-mushroom-powder/)]
+
+**Vitamin C**: LiveOn Laboratories Lypo-Spheric Vitamin C, 1 packet/1,000 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/lypo-spheric-vitamin-c-az/)] and/or Viva Naturals Vitamin C, 1,000 mg/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/viva-naturals-vitamin-c-az/)]
+
+**Omega-3 Fish Oil**: Viva Naturals Ultra Strength Omega-3 Fish Oil, 2 softgels/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/viva-naturals-omega-3-fish-oil-az/)]
+
 
 
 <br />
 
 #### Taken as Needed:
 
-**Omega-3 Fish Oil**: Viva Naturals Ultra Strength Omega-3 Fish Oil, 2 softgels/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/viva-naturals-omega-3-fish-oil-az/)]
+**Probiotic**: Physician's Choice 60 Billion Probiotic, 1 capsule/day -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/physicians-choice-60-billion-probiotic-az/)]
 
 **Vitamin C**: 2000+ mg/day for additional immune support
-
-**Vitamin D**: 2,000-6,000 IU/day for additional immune support
 
 **Bitter Melon**: Himalaya Bitter Melon, 1-2 caplets taken with high-glycemic meals -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/himalaya-organic-bitter-melon-az/)]
 
@@ -66,11 +69,11 @@ _This document contains affiliate links and I may receive a commission if you ma
 
 **Essential Amino Acids (EAAs)**: Bulk Supplements Essential Amino Acids, 15g/day (split post-workout/evening) on training days -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/bulk-supplements-eaas-az/)]
 
-**Creatine Monohydrate**: Bulk Supplements Creatine Monohydrate (Micronized), 5g/day post workout on training days/after first meal non-training days, 8 weeks on/2 weeks off -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/bulk-supplements-creatine-monohydrate-az/)]
-
 <br />
 
 #### Taken as Needed:
+
+**Creatine Monohydrate**: Bulk Supplements Creatine Monohydrate (Micronized), 5g/day post workout on training days/after first meal non-training days, 8 weeks on/2-4 weeks off -- Buy: [[Amazon (USA)](https://www.quantifiedbob.com/go/bulk-supplements-creatine-monohydrate-az/)]
 
 **Ketone Esters**: KetoneAid KE1 / KE4, 5-10 mL pre-workout -- Buy: [[KetoneAid](http://quantifiedbob.com/go/ketoneaid)] (use code **QUANTIFIEDBOB** for free shipping!)
 
