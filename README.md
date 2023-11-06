@@ -2,7 +2,7 @@
 
 This document contains my current supplement regimen, organized by goal-specific "stacks". I have also created [a more detailed Google spreadsheet you can access here](https://docs.google.com/spreadsheets/d/10pZ_fXmDuoJZi0YbHA9u9ib2lUqN6qEF3DC1WfePzbM/edit?usp=sharing).
 
-_As of July, 2023. See [CHANGELOG](CHANGELOG.md) for updates._
+_As of November, 2023. See [CHANGELOG](CHANGELOG.md) for updates._
 
 ---
 
@@ -30,7 +30,9 @@ _This document contains affiliate links and I may receive a commission if you ma
 
 #### Taken Daily:
 
-**Daily Multivitamin**: mindbodygreen Multivitamin+, 2 capsules/day -- Buy: [[Amazon](https://www.quantifiedbob.com/go/mindbodygreen-multi-plus-az/)] [[mindbodygreen](https://www.quantifiedbob.com/go/mindbodygreen-multi-plus/)]
+**NAD+**: Qualia NAD+, 2 capsules/day -- Buy: [[Neurohacker](https://www.quantifiedbob.com/go/qualia-nad/)] (save 15% w/code **QUANTIFIEDBOB**!) 
+
+~~**Daily Multivitamin**: mindbodygreen Multivitamin+, 2 capsules/day -- Buy: [[](https://www.quantifiedbob.com/go/thorne-vitamin-d-k2-liquid-az/)]~~ (see [CHANGELOG](CHANGELOG.md))
 
 **Vitamin D3/K2**: Thorne Vitamin D/K2 Liquid, 0-2,000 IU (summer) -- Buy: [[Amazon](https://www.quantifiedbob.com/go/thorne-vitamin-d-k2-liquid-az/)]
 

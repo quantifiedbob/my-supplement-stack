@@ -7,6 +7,21 @@ and this project (loosely) adheres to [Semantic Versioning](https://semver.org/s
 
 ---
 
+## [3.11.0] - 2023-11
+
+### Added/Resumed
+
+- Qualia NAD+ - participating in a 1-month study to compare NAD levels before/after using the product
+- Alpha-Lipoic Acid - adding based on recent bloodwork
+
+### Replaced/Modified
+- Reduced creatine intake for 1 month
+
+### Stopped
+- Multi-vitamin - paused taking mindbodygreen multivitamin while doing NAD study because it contains vitamin B3 (niacin)
+- Beta-alanine
+- Completed BPC-157/TB-500 quarterly cycle
+
 ## [3.7.0] - 2023-07
 
 ### Added/Resumed
