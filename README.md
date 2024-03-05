@@ -1,8 +1,8 @@
 # My Current Supplement Stack
 
-This document contains my current supplement regimen, organized by goal-specific "stacks". I have also created [a more detailed Google spreadsheet you can access here](https://docs.google.com/spreadsheets/d/10pZ_fXmDuoJZi0YbHA9u9ib2lUqN6qEF3DC1WfePzbM/edit?usp=sharing).
+This document contains my current supplement regimen, organized by goal-specific "stacks" 
 
-_As of November, 2023. See [CHANGELOG](CHANGELOG.md) for updates._
+_As of March, 2024. See [CHANGELOG](CHANGELOG.md) for updates._
 
 ---
 
@@ -15,6 +15,8 @@ _As of November, 2023. See [CHANGELOG](CHANGELOG.md) for updates._
 - [Cognitive Stack](#cognitive-stack)
 - [Sleep Stack](#sleep-stack)
 - [Stress Stack](#stress-stack)
+- [🔥 New! Google Sheet Version](#google-sheet-version-of-my-supplement-stack)
+
 
 ---
 
@@ -30,9 +32,7 @@ _This document contains affiliate links and I may receive a commission if you ma
 
 #### Taken Daily:
 
-**NAD+**: Qualia NAD+, 2 capsules/day -- Buy: [[Neurohacker](https://www.quantifiedbob.com/go/qualia-nad/)] (save 15% w/code **QUANTIFIEDBOB**!) 
-
-~~**Daily Multivitamin**: mindbodygreen Multivitamin+, 2 capsules/day -- Buy: [[](https://www.quantifiedbob.com/go/thorne-vitamin-d-k2-liquid-az/)]~~ (see [CHANGELOG](CHANGELOG.md))
+**Daily Multivitamin**: mindbodygreen Multivitamin+, 2 capsules/day -- Buy: [[](https://www.quantifiedbob.com/go/thorne-vitamin-d-k2-liquid-az/)] (see [CHANGELOG](CHANGELOG.md))
 
 **Vitamin D3/K2**: Thorne Vitamin D/K2 Liquid, 0-2,000 IU (summer) -- Buy: [[Amazon](https://www.quantifiedbob.com/go/thorne-vitamin-d-k2-liquid-az/)]
 
@@ -63,11 +63,13 @@ _This document contains affiliate links and I may receive a commission if you ma
 
 **Whey Protein**: Levels Grass-fed Whey Protein, 25-50g/day -- Buy: [[Amazon](https://www.quantifiedbob.com/go/levels-grass-fed-whey-protein-az/)]
 
+**Collagen Peptides**: Vital Proteins Collagen Peptides, 20g/day -- Buy [[Amazon](https://www.quantifiedbob.com/go/vital-proteins-collagen-peptides-az/)]
+
 **Creatine Monohydrate**: Bulk Supplements Creatine Monohydrate (Micronized), 5g/day -- Buy: [[Amazon](https://www.quantifiedbob.com/go/bulk-supplements-creatine-monohydrate-az/)]
 
 **Essential Amino Acids (EAAs)**: TrueNutrition EAA Powder (Instantized Powder), 10g/day (added to intra-workout drink on training days)  -- Buy: [[Amazon](https://www.quantifiedbob.com/go/true-nutrition-az/)]
 
-**Electrolytes**: LMNT, 1/2 satchet/day (added to intra-workout drink on training days) -- Buy: [[Amazon](https://www.quantifiedbob.com/go/lmnt-amz/)]
+**Electrolytes**: LMNT, 1/2 satchet/day (sometimes added to intra-workout drink on training days) -- Buy: [[Amazon](https://www.quantifiedbob.com/go/lmnt-amz/)]
 
 **Digestive Enzymes**: BiOptimizers MassZymes, 3-6 capsules/day, taken with high protein meals -- Buy: [[BiOptimizers](https://www.quantifiedbob.com/go/bioptimizers/)] (use code **QUANTIFIEDBOB** to save!)  [[Amazon](https://www.quantifiedbob.com/go/bioptimizers-masszymes-az/)]
 
@@ -77,8 +79,6 @@ _This document contains affiliate links and I may receive a commission if you ma
 <br />
 
 #### Taken as Needed:
-
-**Pea Protein**: Bulk Supplements Pea Protein Isolate, 30g/day -- Buy: [[Amazon](https://www.quantifiedbob.com/go/bulk-supplements-pea-protein-isolate-az/)]
 
 **Vasodilators**: Beet Root Powder, L-Arginine, Niacin (Vitamin B3) (taken prior to exercise, sauna)
 
@@ -94,7 +94,7 @@ _This document contains affiliate links and I may receive a commission if you ma
 
 #### Taken Daily:
 
-**Peptides**: BPC-157, TB-500, quarterly cycle -- [[Limitless Life](https://www.quantifiedbob.com/go/limitless-life/)] (save 15% w/code **QUANTIFIEDBOB**!)
+**Peptides**: Tessamorelin, 60-day cycle -- [[Limitless Life](https://www.quantifiedbob.com/go/limitless-life/)] (save 15% w/code **QUANTIFIEDBOB**!)
 
 **N-Acetyl Cysteine (NAC)**: NOW NAC 600mg, 1800 mg/day -- Buy: [[Amazon](https://www.quantifiedbob.com/go/now-nac-az/)]
 
@@ -126,13 +126,11 @@ _This document contains affiliate links and I may receive a commission if you ma
 
 **Systemic Enzymes**: ProOneZyme Systemic Enzymes, 4-8 capsules/daily (empty stomach) -- Buy: [[Amazon](https://www.quantifiedbob.com/go/proonezyme-systemic-enzymes-az/)]
 
-**Nitric Oxide**: N1O1 Nitric Oxide Releasing Lozenges, 1 lozenge, 2x/day -- Buy: [[Amazon](https://www.quantifiedbob.com/go/n1o1-nitric-oxide-az/)]
-
 <br />
 
 #### Taken as Needed:
 
-**Resveratrol**: Empirical Labs Liposomal Curcumin/Resveratrol, 6 mL/day -- Buy: [[Amazon](https://www.quantifiedbob.com/go/empirical-labs-curcumin-resveratrol-az/)]
+**Nitric Oxide**: N1O1 Nitric Oxide Releasing Lozenges, 1 lozenge, 2x/day -- Buy: [[Amazon](https://www.quantifiedbob.com/go/n1o1-nitric-oxide-az/)]
 
 <br />
 
@@ -186,7 +184,7 @@ Lucy Nicotine Gum, 1-2mg (no more than 1-2x/week) -- Buy: [[Lucy](https://www.qu
 
 #### Taken as Needed:
 
-**Glycine**: Thorne Glycine, 2-3 g prior to bed -- Buy: [[Amazon](https://www.quantifiedbob.com/go/thorne-glycine-az/)]
+**Glycine**: Bulk Supplements Glycine Powder, 3g prior to bed -- Buy: [[Amazon](https://www.quantifiedbob.com/go/bulk-supplements-glycine-powder-az/)]
 
 <br />
 
@@ -207,6 +205,20 @@ Lucy Nicotine Gum, 1-2mg (no more than 1-2x/week) -- Buy: [[Lucy](https://www.qu
 
 **Chaga**: Sayan Siberian Chaga Chunks (to make home-brewed chaga tea) -- Buy: [[Amazon](https://www.quantifiedbob.com/go/sayan-chaga-chunks-az/)]
 
+
+<br />
+
+[back to top](#my-current-supplement-stack)
+
+<br />
+
+---
+
+## Google Sheet Version of My Supplement Stack!
+
+I have also created [a more detailed Google spreadsheet you can access here](https://docs.google.com/spreadsheets/d/10pZ_fXmDuoJZi0YbHA9u9ib2lUqN6qEF3DC1WfePzbM/edit?usp=sharing).
+
+[![My Supplement Stack - Google Sheet version](images/my-supplement-stack-google-sheet.png)](https://docs.google.com/spreadsheets/d/10pZ_fXmDuoJZi0YbHA9u9ib2lUqN6qEF3DC1WfePzbM/edit?usp=sharing)
 
 <br />
 

@@ -6,6 +6,20 @@ _The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project (loosely) adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html) with major versions reflecting year and minor versions reflecting months._
 
 ---
+## [4.3.0] - 2024-03
+
+### Added/Resumed
+- Glycine - adding to see effects on sleep quality
+- Peptides - Tessamorelin, Ipamorelin 60-day cycle
+- Multi-vitamin - resume taking mindbodygreen multivitamin (reduced amount)
+- Collagen protein
+  
+### Replaced/Modified
+-  Creatine - resume prior amount
+
+### Stopped
+- Qualia NAD+ - participated in a 1-month study to compare NAD levels before/after using the product
+- Pea protein - replaced with collagen protein
 
 ## [3.11.0] - 2023-11
 
